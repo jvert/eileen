@@ -1,13 +1,5 @@
 baseURL = 'https://eileenvert.com/'
 languageCode = 'en-us'
 title = "Eileen's Website"
-theme = 'ananke'
-[[params.ananke_socials]]
-name = "twitter"
-url = 'https://twitter.com/eileenvert'
-[[params.ananke_socials]]
-name = "github"
-url = 'https://github.com/eileenv8'
-[[params.ananke_socials]]
-name = "linkedin"
-url = 'https://www.linkedin.com/in/eileen-vert-2790ab150/'
+theme = 'introduction'
+
