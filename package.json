@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:azure": "hugo"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jvert/eileen#readme",
   "dependencies": {
+    "autoprefixer": "^10.4.13",
     "postcss-cli": "^10.1.0"
   }
 }
