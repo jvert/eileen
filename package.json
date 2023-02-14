@@ -1,0 +1,22 @@
+{
+  "name": "eileen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvert/eileen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvert/eileen/issues"
+  },
+  "homepage": "https://github.com/jvert/eileen#readme",
+  "dependencies": {
+    "postcss-cli": "^10.1.0"
+  }
+}
